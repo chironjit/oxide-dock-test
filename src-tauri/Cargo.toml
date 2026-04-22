@@ -1,7 +1,7 @@
 [package]
 name = "oxidedock"
-version = "0.6.0" # x-release-please-version
-description = "OxideDock: a Rust + Vue desktop application foundation"
+version = "0.0.1" # x-release-please-version
+description = "OxideDock: a Rust + Vue desktop application"
 edition = "2021"
 
 [lib]

@@ -26,7 +26,8 @@ const techStack = ['Tauri v2', 'Vue 3', 'TypeScript', 'Tailwind CSS v4', 'Pinia'
         Raw speed, refined desktop. OxideDock is powered by
         <span class="font-medium text-gray-900 dark:text-gray-200">Tauri</span>,
         <span class="font-medium text-gray-900 dark:text-gray-200">Vue</span>, and
-        <span class="font-medium text-gray-900 dark:text-gray-200">TypeScript</span>.
+        <span class="font-medium text-gray-900 dark:text-gray-200">TypeScript</span>
+        <span class="font-medium text-gray-900 dark:text-gray-200">OxideDock template</span>.
       </p>
     </section>
 
