@@ -17,7 +17,7 @@ const techStack = ['Tauri v2', 'Vue 3', 'TypeScript', 'Tailwind CSS v4', 'Pinia'
       <div class="flex items-center gap-4">
         <img src="/icon.svg" alt="OxideDock logo" class="size-16" />
         <h1
-          class="bg-gradient-to-r from-blue-600 to-violet-600 bg-clip-text text-5xl font-extrabold tracking-tight text-transparent dark:from-blue-400 dark:to-violet-400"
+          class="bg-linear-to-r from-blue-600 to-violet-600 bg-clip-text text-5xl font-extrabold tracking-tight text-transparent dark:from-blue-400 dark:to-violet-400"
         >
           OxideDock
         </h1>
